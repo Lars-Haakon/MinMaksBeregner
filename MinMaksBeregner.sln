@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaksBeregner", "MinMaksBeregner\MinMaksBeregner.csproj", "{88519065-C39A-4A92-BDA7-C5CED1856290}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeregnTest", "BeregnTest\BeregnTest.csproj", "{9FAFE5B1-F7ED-4015-8B51-0169A16D1449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88519065-C39A-4A92-BDA7-C5CED1856290}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88519065-C39A-4A92-BDA7-C5CED1856290}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88519065-C39A-4A92-BDA7-C5CED1856290}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88519065-C39A-4A92-BDA7-C5CED1856290}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FAFE5B1-F7ED-4015-8B51-0169A16D1449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FAFE5B1-F7ED-4015-8B51-0169A16D1449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FAFE5B1-F7ED-4015-8B51-0169A16D1449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FAFE5B1-F7ED-4015-8B51-0169A16D1449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7770AD90-5A20-46C4-8520-2A6E244EFA24}
+	EndGlobalSection
+EndGlobal
